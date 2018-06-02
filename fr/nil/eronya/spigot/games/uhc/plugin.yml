@@ -1,0 +1,9 @@
+main: fr.nil.eronya.spigot.games.uhc.CoreClass
+name: Eronya UHC
+version: 1.0
+author: Nil
+commands:
+  start:
+    description: start!
+  pvp:
+    description: start!
